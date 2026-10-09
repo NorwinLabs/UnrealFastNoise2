@@ -245,3 +245,6 @@ Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/**
 !/Source/ThirdParty/FastNoise2/Win64/Debug/FastNoiseD.lib
 !Resources/*
 .p4ignore
+
+# Release packages built by scripts/release.ps1
+*.zip
